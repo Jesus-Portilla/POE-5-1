@@ -1,7 +1,0 @@
-class persona(): # clase persona
-    def __init__(self,nombre,edad): # se inicializa con nombre y edad
-        self.nombre=nombre
-        self.edad=edad
-        Jesus=persona("Jesus Portilla", 23)
-        Ejercicio 1. Imprimir Edad.
-## Jesus.nombre
